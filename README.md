@@ -1,4 +1,4 @@
-# p001_colorReading_LegoMindstorms
+# p001_colorReading_legoMindstorms
 lego mindstroms (51515) project_001 : color reading and display
 
 Note.
